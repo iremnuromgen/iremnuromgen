@@ -18,7 +18,7 @@
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 
-[linkedin]:www.linkedin.com/in/iremnur-ömgen
+[linkedin]:https://www.linkedin.com/in/iremnur-ömgen/
 
 <br />
 <br />
