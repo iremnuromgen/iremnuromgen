@@ -8,7 +8,7 @@
 
 :telescope: I spend most of my time learning new information about my field and I enjoy it.
 
-:briefcase: I am working on a project related to deep learning with my teammates.
+:briefcase: I am working on a project related to machine learning with my teammates.
 
 :fire: I’m currently learning python.
 
