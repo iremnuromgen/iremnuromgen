@@ -4,7 +4,7 @@
 
 </div>
 
-:dart: I'm a 3rd year computer engineering student.
+:dart: I'm a 4th year computer engineering student.
 
 :telescope: I spend most of my time learning new information about my field and I enjoy it.
 
