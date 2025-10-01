@@ -2,7 +2,7 @@
 
 <h3 align="center">I am a mobile developer</h3>
 
-📌I am a Flutter-focused mobile application developer.<br>💻I am currently working on my project, 'Dijipektüs'.<br>🔥I am open to learning new technologies.<br>🎯I enjoy developing effective and innovative applications.<br>
+  📌I am a Flutter-focused mobile application developer.<br>💻I am currently working on my project, 'Billie'.<br>🔥I am open to learning new technologies.<br>🎯I enjoy developing effective and innovative applications.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/iremnur-omgen) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@iremnuromgen) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iremnuromgen@gmail.com) 
