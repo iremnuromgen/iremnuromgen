@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋 I'm İrem</h1>
 
-<h3 align="center">I am a mobile developer</h3>
+<h3 align="center">Junior Software Developer</h3>
 
-  📌I am a Flutter-focused mobile application developer.<br>💻I am currently working on my project, 'Billie'.<br>🔥I am open to learning new technologies.<br>🎯I enjoy developing effective and innovative applications.<br>
+  📌Currently developing **Flimo**, a flashcard-based vocabulary learning web application built with Vanilla JavaScript. <br>
+  📱 Building scalable mobile applications with **Flutter**.<br>
+  💡 Interested in clean architecture, modular design, and maintainable code.
+  📚 Continuously improving my skills in Flutter, JavaScript, and software architecture.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/iremnur-omgen) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@iremnuromgen) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iremnuromgen@gmail.com) 
